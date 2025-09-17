@@ -1,7 +1,7 @@
-#include <raylib/raylib.h>
+#include "raylib_win32.h"
+#include "raylib.h"
 
-#include <raylib/raylib_win32.h>
-#include <spdlog/spdlog.h>
+#include "spdlog.h"
 
 int main()
 {
