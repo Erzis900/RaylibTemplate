@@ -1,5 +1,8 @@
 #include <raylib/raylib.h>
 
+#include <raylib/raylib_win32.h>
+#include <spdlog/spdlog.h>
+
 int main()
 {
     const int screenWidth = 800;
